@@ -19,3 +19,4 @@ def listSort(x = num):
 
 print(listSort())
 print(listSort(num2))
+print(max(num))
